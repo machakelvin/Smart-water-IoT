@@ -74,10 +74,4 @@ This project implements a smart water meter system using ESP32/ESP8266, Firebase
 - Data will be sent to Firebase every 15 seconds.
 - SMS notifications will be sent if tampering is detected or when water usage reaches certain thresholds.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify the README as per your specific requirements.
