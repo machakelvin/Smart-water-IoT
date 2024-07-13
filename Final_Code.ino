@@ -26,11 +26,8 @@
 ////////////////////////////////////////////////////////////
 // Insert Firebase project API Key
 // #define API_KEY "AIzaSyBUuLBvjU8ovA1F7H1bSxelOMja7Jwt_CM"
-#define API_KEY "AIzaSyCPwEQAg8TJ2slBNmKQcipf9tX-fsjTARs"
-// Insert RTDB URL
-#define DATABASE_URL "https://final-smart-meter-default-rtdb.firebaseio.com/"
-// #define DATABASE_URL "https://smart-water-meter-e42cd-default-rtdb.firebaseio.com/"
-// Define Firebase Data object
+#define API_KEY //insert your API key here
+#define DATABASE_URL //insert your URL here
 FirebaseData fbdo;
 FirebaseAuth auth;
 FirebaseConfig config;
